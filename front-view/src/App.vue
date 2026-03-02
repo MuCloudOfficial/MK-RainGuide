@@ -29,13 +29,13 @@ const toggleAside = () => {
                                         <el-icon>
                                                 <HomeFilled />
                                         </el-icon>
-                                        Overview
+                                        <span>Overview</span>
                                 </el-menu-item>
                                 <el-menu-item index="/dataviewer">
                                         <el-icon>
                                                 <Document />
                                         </el-icon>
-                                        Data Viewer
+                                        <span>Data Viewer</span>
                                 </el-menu-item>
                         </el-menu>
                         <el-main class="app-main">
